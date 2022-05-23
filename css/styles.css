@@ -1,0 +1,35 @@
+body {
+    background-color: #f6ecd6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(153, 153, 153);
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {color: #695442;}
+h3{color: #695442;}
+h2{color: #695442;}
+ul {margin-left: 550px;
+    text-align: left;
+    list-style-position: inside;
+    
+    
+}
+ol {margin-left: 650px;
+    text-align: left
+    ;
+    list-style-position: inside;
+   
+    
+}
+.profilepicture{
+    border-radius: 20%;
+}
+.profilepicture:hover{
+    border-radius: 5%;
+    width: 200px;
+}
