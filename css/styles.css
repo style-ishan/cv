@@ -13,14 +13,14 @@ hr {
 h1 {color: #695442;}
 h3{color: #695442;}
 h2{color: #695442;}
-ul {margin-left: 550px;
-    text-align: left;
+ul {
+    text-align: middle;
     list-style-position: inside;
     
     
 }
-ol {margin-left: 650px;
-    text-align: left
+ol {
+    text-align: middle
     ;
     list-style-position: inside;
    
